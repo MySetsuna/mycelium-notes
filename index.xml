@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://mysetsuna.github.io/mycelium-notes</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>decisions</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/decisions/</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/decisions/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 13 Jun 2026 22:26:10 GMT</pubDate>
+  </item><item>
+    <title>journal</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/journal/</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/journal/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 13 Jun 2026 22:26:10 GMT</pubDate>
+  </item><item>
+    <title>Tag Index</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/tags/</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 13 Jun 2026 22:26:10 GMT</pubDate>
+  </item><item>
+    <title>🍄 Mycelium Notes</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/</guid>
+    <description><![CDATA[ Auto-published developer notes (ADRs and journals) from a Mycelium workspace, deployed via Mycelium git2 push. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 22:21:39 GMT</pubDate>
+  </item><item>
+    <title>0002-ship-a-self-contained-html-dashboard-before-the-full-vite-tauri-portal</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/decisions/0002-ship-a-self-contained-html-dashboard-before-the-full-vite-tauri-portal</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/decisions/0002-ship-a-self-contained-html-dashboard-before-the-full-vite-tauri-portal</guid>
+    <description><![CDATA[ 2. ]]></description>
+    <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>2026-06-14</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/journal/2026-06-14</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/journal/2026-06-14</guid>
+    <description><![CDATA[ 2026-06-14 · 日报 Daily Journal Phase 1 complete Shipped mycelium-core (engine, 6 tests green), mycelium-cli, mycelium-mcp (rmcp 1.7, 6 tools, verified over JSON-RPC), Claude Code hooks integration, and a self-contained HTML dashboard (topology + mindmap + doc tree + reader). ]]></description>
+    <pubDate>Sat, 13 Jun 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>0001-adopt-rmcp-1-7-for-the-mcp-server</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/decisions/0001-adopt-rmcp-1-7-for-the-mcp-server</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/decisions/0001-adopt-rmcp-1-7-for-the-mcp-server</guid>
+    <description><![CDATA[ 1. Adopt rmcp 1.7 for the MCP server Context and Problem Statement Need a Rust MCP server with stdio + HTTP. ]]></description>
+    <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
+  </item><item>
+    <title>2026-06-13</title>
+    <link>https://mysetsuna.github.io/mycelium-notes/journal/2026-06-13</link>
+    <guid>https://mysetsuna.github.io/mycelium-notes/journal/2026-06-13</guid>
+    <description><![CDATA[ 2026-06-13 · 日报 Daily Journal Phase 0+1 Built mycelium-core (6 tests green) and the CLI. Cross-project graph inference works. ]]></description>
+    <pubDate>Fri, 12 Jun 2026 16:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
